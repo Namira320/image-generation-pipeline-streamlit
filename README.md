@@ -2,6 +2,9 @@
 
 This project is an implementation and submission of an AI-based image processing pipeline utilizing **Stable Diffusion**, ranging from Jupyter Notebook-based experiments to interactive web interface deployment using **Streamlit** and **Ngrok**.
 
+> 📜 **Certification Context:** This project was developed as the final submission for the **Generative AI Fundamentals** class in the **Dicoding Asah** program.  
+> [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](Generative-AI-Fundamentals.pdf)
+
 ---
 
 ## 📺 Demo Video
