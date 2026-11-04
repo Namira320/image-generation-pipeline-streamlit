@@ -4,6 +4,11 @@ This project is an implementation and submission of an AI-based image processing
 
 ---
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/NjAjpmqKMAU/hqdefault.jpg)](https://youtu.be/NjAjpmqKMAU)
+
+---
+
 ## ✨ 1. Key Project Features
 
 * **Text-to-Image Generation:** Generates high-quality images from text prompts using Stable Diffusion v1.5.
